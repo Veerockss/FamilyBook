@@ -1,0 +1,21 @@
+body{
+    background-color:pink;
+    text-align:center;
+  }
+  h1{
+    font-size:60px;
+    word-spacing:10px;
+    font-variant:small-caps;
+    color:blue;
+  }
+#members{
+    width:500px;
+  border-style:solid;
+  padding:5px;
+  border-radius:100px;
+}
+#familybutton{
+  width:200px;
+  height:40px;
+  font-size:30px;
+}
